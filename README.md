@@ -12,7 +12,7 @@ markdown language - 글 서식 편집용 언어
 
 ### 반려동물 시스템 발표자료
 [네이버검색](https://www.naver.com)<br>
-[마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)<br>
+[동물병원 프로젝트](https://gist.github.com/ihoneymon/652be052a0727ad59601)<br>
 [발표자료](project.pptx)<br>
 
 ### 시스템 시연영상
